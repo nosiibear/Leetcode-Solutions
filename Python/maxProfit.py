@@ -1,4 +1,5 @@
-# 121. Best Time to Buy and Sell Stock
+# Date: 5/18/23
+# Problem: 121. Best Time to Buy and Sell Stock
 # You are given an array prices where prices[i] is the price
 # of a given stock on the ith day.
 # You want to maximize your profit by choosing a single day
