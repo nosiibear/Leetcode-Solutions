@@ -25,7 +25,7 @@ class Solution(object):
             else:
                 nodeList.append(temp.next)
             temp = temp.next
-        return null
+        return None
         
 list1 = ListNode(3)
 list1.next = ListNode(2)
